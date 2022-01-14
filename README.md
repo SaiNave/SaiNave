@@ -1,17 +1,14 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=SaiNave&style=plastic&label=Profile visits" alt="SaiNave" /> </p>
-<img align ="down" alt="linkedIn_logo" width="90" src="logos/linkedin_logo.png" />(http://www.linkedin.com/in/sairah-naveed)
- <br />
-
-<h1 align =left"> Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h2 align="center"> I'm SaiNave</h2>
-<h3 align="center">Electronic Engineer and Data Analyst</h3>
-<!--[<img align="center" alt="linkedIn_logo" width="90" src="logos/linkedin_logo.png" />](http://www.linkedin.com/in/sairah-naveed)                                                   [<img align="centre" alt= "g_logo" width="30" src="logos/g_logo.png">](mailto:nave.sai25@gmail.com) !-->
-
-
-
-
+<img src="https://komarev.com/ghpvc/?username=SaiNave&style=plastic&label=Profile visits" alt="SaiNave" /></a>
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://www.linkedin.com/in/sairah-naveed">
+ <img alt="SaiNave's LinkedIN" width="60" src="logos/linkedin_logo.png" />
+</a>
+<a href="mailto:nave.sai25@gmail.com">
+ <img alt="SaiNave's email" width="50" src="logos/g_logo.png" />
+</a>
+<br />
 I am a passionate self taught individual with an expereince in  data analytics, soft robotics, algorithm development, programming, and IT support
-I’m currently working on the projects which involves python programming, database management, data analysis and visualization                                                                                                
+I’m currently working on the projects which involves python programming, database management, data analysis and visualization                                                   <br />                                            
 ✨ Fun fact: I am multilingual- fluent in English, Urdu, Korean (intermediate) and French (Beginner)
 
 
