@@ -1,4 +1,5 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=SaiNave&style=plastic&label=Profile visits" alt="SaiNave" /> </p>
+
 <h1 align =left"> Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h2 align="center"> I'm SaiNave</h2>
 <h3 align="center">Electronic Engineer and Data Analyst</h3>
@@ -7,7 +8,9 @@
 I am a passionate self taught individual with an expereince in  data analytics, soft robotics, algorithm development, programming, and IT support
 I’m currently working on the projects which involves python programming, database management, data analysis and visualization
  
-- Reach me at [<img align="center" alt="linkedIn_logo" width="70" src="logos/linkedin_logo.png" />](http://www.linkedin.com/in/sairah-naveed)
+#### Reach me at [<img align="center" alt="linkedIn_logo" width="70" src="logos/linkedin_logo.png" />](http://www.linkedin.com/in/sairah-naveed)
+                                                                                                  
+                                                                                                 
 - ✨ Fun fact: I am multilingual- fluent in English, Urdu, Korean (intermediate) and French (Beginner)
 
 
