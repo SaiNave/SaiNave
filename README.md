@@ -1,12 +1,9 @@
 <img src="https://komarev.com/ghpvc/?username=SaiNave&style=plastic&label=Profile visits" alt="SaiNave" /></a>
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/sairah-naveed">
- <img alt="SaiNave's LinkedIN" width="60" src="logos/linkedin_logo.png" />
-</a>
-<a href="mailto:nave.sai25@gmail.com">
- <img alt="SaiNave's email" width="50" src="logos/g_logo.png" />
-</a>
-<br />
+</p>
+<href="https://www.linkedin.com/in/sairah-naveed"><img alt="SaiNave's LinkedIN" width="80" src="logos/linkedin_logo.png"/>
+<href="mailto:nave.sai25@gmail.com"> <img alt="g_logo" width="40" src="logos/g_logo.png"/>
+</p>
 I am a passionate self taught individual with an expereince in  data analytics, soft robotics, algorithm development, programming, and IT support
 I’m currently working on the projects which involves python programming, database management, data analysis and visualization                                                   <br />                                            
 ✨ Fun fact: I am multilingual- fluent in English, Urdu, Korean (intermediate) and French (Beginner)
@@ -25,8 +22,7 @@ I’m currently working on the projects which involves python programming, datab
 <img align="left" alt= "Tableau_logo" width="45" src="logos/Tableau_logo.png">
 <img align="left" alt= "git_logo" width="40" src="logos/git_logo.png">
 <img align="left" alt= "Maltab_Logo" width="40" src="logos/Matlab_Logo.png">
-<img align="left" alt= "excel" width="40" src="logos/excel.png">
- 
+<img align="left" alt= "excel" width="40" src="logos/excel.png"> 
 </p>
 <br />
 <br />
