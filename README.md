@@ -1,19 +1,16 @@
 </a><img src="https://komarev.com/ghpvc/?username=SaiNave&style=plastic&label=Profile visits" alt="SaiNave" /></a>
 [![Visits Badge](https://badges.pufler.dev/years/SaiNave)](https://badges.pufler.dev)
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I am a passionate self taught individual with an expereince in  data analytics, soft robotics, algorithm development, programming, and IT support
-I’m currently working on the projects which involves python programming, database management, data analysis and visualization                                                   <br />                                            
-✨ Fun fact: I am multilingual- fluent in English, Urdu, Korean (intermediate) and French (Beginner)
+I’m currently working on the projects which involves python programming, database management, data analysis and visualization                                                   <br /> ✨ Fun fact: I am multilingual- fluent in English, Urdu, Korean (intermediate) and French (Beginner)
 
-**Reach me with**
+## Reach me with
 
 [<img align ="left" alt="SaiNave's LinkedIN" height ="25" width="30" src="logos/linkedin_icon.png"/>](https://www.linkedin.com/in/sairah-naveed)
 [<img align ="left" alt="g_logo" width="30" src="logos/g_logo.png"/>](mailto:nave.sai25@gmail.com)
 <br/>
-<br/>
 
-## 💻Languages & Tools I know 
+## 💻Languages & Tools
 </p> 
 <img align="left" alt= "python_logo" width="40" src="logos/python_logo.png">
 <img align="left" alt= "Csharp_Logo" width="55" src="logos/Csharp_Logo.png">
