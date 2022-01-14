@@ -9,6 +9,7 @@ I am a passionate self taught individual with an expereince in  data analytics, 
 I’m currently working on the projects which involves python programming, database management, data analysis and visualization
  
 #### Reach me at [<img align="center" alt="linkedIn_logo" width="70" src="logos/linkedin_logo.png" />](http://www.linkedin.com/in/sairah-naveed)
+                 
                                                                                                   
                                                                                                  
 - ✨ Fun fact: I am multilingual- fluent in English, Urdu, Korean (intermediate) and French (Beginner)
