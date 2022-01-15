@@ -1,4 +1,4 @@
-</a><img src="https://komarev.com/ghpvc/?username=SaiNave&style=plastic&label=Profile visits" alt="SaiNave" /></a>
+</a><img src="https://komarev.com/ghpvc/?username=SaiNave&style=flat&label=Profile visits" alt="SaiNave" /></a>
 [![Visits Badge](https://badges.pufler.dev/years/SaiNave)](https://badges.pufler.dev)
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I am a passionate self taught individual with an expereince in  data analytics, soft robotics, algorithm development, programming, and IT support
