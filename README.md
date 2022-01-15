@@ -4,7 +4,7 @@
 I am a passionate self taught individual with an expereince in  data analytics, soft robotics, algorithm development, programming, and IT support
 I’m currently working on the projects which involves python programming, database management, data analysis and visualization                                                   <br /> ✨ Fun fact: I am multilingual- fluent in English, Urdu, Korean (intermediate) and French (Beginner)
 
-## Reach me with
+## Reach me on
 
 [<img align ="left" alt="SaiNave's LinkedIN" height ="25" width="30" src="logos/linkedin_icon.png"/>](https://www.linkedin.com/in/sairah-naveed)
 [<img align ="left" alt="g_logo" width="30" src="logos/g_logo.png"/>](mailto:nave.sai25@gmail.com)
@@ -28,7 +28,7 @@ I’m currently working on the projects which involves python programming, datab
 <br />
 <br />
 <br />
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SaiNave&theme=light&show_icons=true" alt="SaiNave" /></p>
+<!--<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SaiNave&theme=light&show_icons=true" alt="SaiNave" /></p>!-->
 
 
 
