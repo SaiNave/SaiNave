@@ -9,10 +9,8 @@ Being an Engineer, I am always interested in new emerging technologies. I try to
 - Working on personal projects which involves python programming, database management, data analysis and visualization.
 - looking for Job opportunities
 
-### ✨ Fun fact: 
-I am multilingual- fluent in English, Urdu, Korean (intermediate) and French (Beginner)
-### ✨ Activities I do: 
-badminton🏸, aerobics 🏃‍♀️, hiking 🥾, ice skating ⛸️ in winters and an avid traveller
+✨ Fun fact: I am multilingual- fluent in English, Urdu, Korean (intermediate) and French (Beginner)
+</br>✨ Activities I do: badminton🏸, aerobics 🏃‍♀️, hiking 🥾, ice skating ⛸️ in winters and an avid traveller
 
 ## Reach me on
 [<img align ="left" alt="SaiNave's LinkedIN" height ="25" width="30" src="logos/linkedin_icon.png"/>](https://www.linkedin.com/in/sairah-naveed)
