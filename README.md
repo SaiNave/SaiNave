@@ -2,13 +2,13 @@
 <!--</a>[![Visits Badge](https://badges.pufler.dev/years/SaiNave)](https://badges.pufler.dev)</a>!-->
 # Hi I am SaiNave <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 I am a data enthusiast experience in  data analytics, soft robotics, algorithm development, programming, and IT support. My previous work experiences always gave me a chance to deal with the datasets whether is to generate or to analyze or to visualize.<br/>
-I have earned Master's in Robotic Control System Engineering which provide me strong understanding in Statistical analysis, mathematical modelling, machine learning and strong ttention to detail.<br/>
-Being an Engineer, I am always interested in new emerging technologies. I try to keep up with the everyday changing business and technology to stay at the top of the game.
+I earned Master's in Robotic Control System Engineering which equipped me with strong understanding of Statistical analysis, mathematical modelling, machine learning and strong attention to detail.<br/>
+Being an engineer, I am always interested in new emerging technologies. I try to keep up with the everyday changing businesses and technologies to stay at the top of the game.
 
 ## My current Focus
 - Improving advance python programming and SQL skills
-- Working on personal projects which involves python programming, database management, data analysis and visualization.
-- looking for Job opportunities
+- Working on personal projects based on python programming, database management, data analysis and visualization.
+- Open for new job opportunities
 
 ✨ Fun fact: I am multilingual- fluent in English, Urdu, Korean (intermediate) and French (Beginner)
 </br>✨ Activities I do: badminton🏸, aerobics 🏃‍♀️, hiking 🥾, ice skating ⛸️ in winters and an avid traveller
