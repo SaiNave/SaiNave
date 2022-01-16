@@ -1,11 +1,17 @@
 </a><img src="https://komarev.com/ghpvc/?username=SaiNave&style=flat&label=Profile visits" alt="SaiNave" /></a>
-[![Visits Badge](https://badges.pufler.dev/years/SaiNave)](https://badges.pufler.dev)
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I am a passionate self taught individual with an expereince in  data analytics, soft robotics, algorithm development, programming, and IT support
-I’m currently working on the projects which involves python programming, database management, data analysis and visualization                                                   <br /> ✨ Fun fact: I am multilingual- fluent in English, Urdu, Korean (intermediate) and French (Beginner)
+</a>[![Visits Badge](https://badges.pufler.dev/years/SaiNave)](https://badges.pufler.dev)</a>
+# Hi I am SaiNave <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+I am Data Analyst experience in  data analytics, soft robotics, algorithm development, programming, and IT support. In my previous work experiences always come accross with the datasets whether is to generate a dataset or analyse a dataset. I have earned Master's in Robotic Control System Engineering which provide me strong understanding in Statistical analysis, mathematical modelling, machine learning and strong ttention to detail.
+Being an Engineer, I am always interested in new emerging technologies. I try to keep up with the everyday changing business and technology to stay at the top of the game.
+
+## My current Focus
+- Improving advance python programming and SQL skills
+- Working on personal projects which involves python programming, database management, data analysis and visualization.
+
+✨ Fun fact: I am multilingual- fluent in English, Urdu, Korean (intermediate) and French (Beginner)<br />
+✨ Activities I do: badminton🏸, aerobics 🏃‍♀️, hiking 🥾, ice skating ⛸️ in winters and an avid traveller
 
 ## Reach me on
-
 [<img align ="left" alt="SaiNave's LinkedIN" height ="25" width="30" src="logos/linkedin_icon.png"/>](https://www.linkedin.com/in/sairah-naveed)
 [<img align ="left" alt="SaiNave's Twitter" heightt ="25" width="30" src="logos/twitter_icon.png"/>](https://twitter.com/NaveedSairah)
 [<img align ="left" alt="g_logo" width="30" src="logos/g_logo.png"/>](mailto:nave.sai25@gmail.com)
