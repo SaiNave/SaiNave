@@ -1,7 +1,8 @@
 </a><img src="https://komarev.com/ghpvc/?username=SaiNave&style=flat&label=Profile visits" alt="SaiNave" /></a>
 </a>[![Visits Badge](https://badges.pufler.dev/years/SaiNave)](https://badges.pufler.dev)</a>
 # Hi I am SaiNave <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-I am a Data enthusiast experience in  data analytics, soft robotics, algorithm development, programming, and IT support. In my previous work experiences always come accross with the datasets whether is to generate a dataset or analyse a dataset. I have earned Master's in Robotic Control System Engineering which provide me strong understanding in Statistical analysis, mathematical modelling, machine learning and strong ttention to detail.
+I am a Data enthusiast experience in  data analytics, soft robotics, algorithm development, programming, and IT support. My previous work experiences always gave me a chance to deal with the datasets whether is to generate or to analyze or to visualize.<br/>
+I have earned Master's in Robotic Control System Engineering which provide me strong understanding in Statistical analysis, mathematical modelling, machine learning and strong ttention to detail.<br/>
 Being an Engineer, I am always interested in new emerging technologies. I try to keep up with the everyday changing business and technology to stay at the top of the game.
 
 ## My current Focus
