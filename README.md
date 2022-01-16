@@ -1,12 +1,13 @@
 </a><img src="https://komarev.com/ghpvc/?username=SaiNave&style=flat&label=Profile visits" alt="SaiNave" /></a>
 </a>[![Visits Badge](https://badges.pufler.dev/years/SaiNave)](https://badges.pufler.dev)</a>
 # Hi I am SaiNave <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-I am Data Analyst experience in  data analytics, soft robotics, algorithm development, programming, and IT support. In my previous work experiences always come accross with the datasets whether is to generate a dataset or analyse a dataset. I have earned Master's in Robotic Control System Engineering which provide me strong understanding in Statistical analysis, mathematical modelling, machine learning and strong ttention to detail.
+I am a Data enthusiast experience in  data analytics, soft robotics, algorithm development, programming, and IT support. In my previous work experiences always come accross with the datasets whether is to generate a dataset or analyse a dataset. I have earned Master's in Robotic Control System Engineering which provide me strong understanding in Statistical analysis, mathematical modelling, machine learning and strong ttention to detail.
 Being an Engineer, I am always interested in new emerging technologies. I try to keep up with the everyday changing business and technology to stay at the top of the game.
 
 ## My current Focus
 - Improving advance python programming and SQL skills
 - Working on personal projects which involves python programming, database management, data analysis and visualization.
+- looking for Job opportunities
 
 ✨ Fun fact: I am multilingual- fluent in English, Urdu, Korean (intermediate) and French (Beginner)<br />
 ✨ Activities I do: badminton🏸, aerobics 🏃‍♀️, hiking 🥾, ice skating ⛸️ in winters and an avid traveller
