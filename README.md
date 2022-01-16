@@ -23,20 +23,20 @@ Being an engineer, I am always interested in new emerging technologies. I try to
 
 ## 💻Languages & Tools
 </p> 
-<img align="left" alt= "python_logo" width="40" src="logos/python_logo.png">
-<img align="left" alt= "numpy_logo" Height = "40" width="35" src="logos/numpy.png">
-<img align="left" alt= "pandas_logo" width="40" src="logos/pandas.png">
-<img align="left" alt= "Csharp_Logo" width="55" src="logos/Csharp_Logo.png">
-<img align="left" alt= "sql_logo" width="40" src="logos/sql_logo.png">
-<img align="left" alt= "Jupyter_logo" width="40" src="logos/Jupyter_logo.png">
-<img align="left" alt= "pycharm_logo" width="40" src="logos/pycharm_logo.png">
-<img align="left" alt= "vscode_logo" width="40" src="logos/vscode_logo.png">
-<img align="left" alt= "my_sql_logo" width="40" src="logos/my_sql_logo.png">
-<img align="left" alt= "postgresql_logo" width="40" src="logos/postgresql_logo.png">
-<img align="left" alt= "Tableau_logo" width="45" src="logos/Tableau_logo.png">
-<img align="left" alt= "git_logo" width="40" src="logos/git_logo.png">
-<img align="left" alt= "Maltab_Logo" width="40" src="logos/Matlab_Logo.png">
-<img align="left" alt= "excel" width="40" src="logos/excel.png"> 
+<img align="left" alt= "python_logo" width="40" src="logos/python_logo.png" />
+<img align="left" alt= "numpy_logo" Height = "40" width="35" src="logos/numpy.png" />
+<img align="left" alt= "pandas_logo" width="40" src="logos/pandas.png" />
+<img align="left" alt= "Csharp_Logo" width="55" src="logos/Csharp_Logo.png"/ >
+<img align="left" alt= "sql_logo" width="40" src="logos/sql_logo.png" />
+<img align="left" alt= "Jupyter_logo" width="40" src="logos/Jupyter_logo.png" />
+<img align="left" alt= "pycharm_logo" width="40" src="logos/pycharm_logo.png" />
+<img align="left" alt= "vscode_logo" width="40" src="logos/vscode_logo.png" />
+<img align="left" alt= "my_sql_logo" width="40" src="logos/my_sql_logo.png" />
+<img align="left" alt= "postgresql_logo" width="40" src="logos/postgresql_logo.png" />
+<img align="left" alt= "Tableau_logo" width="45" src="logos/Tableau_logo.png" />
+<img align="left" alt= "git_logo" width="40" src="logos/git_logo.png" />
+<img align="left" alt= "Maltab_Logo" width="40" src="logos/Matlab_Logo.png" />
+<img align="left" alt= "excel" width="40" src="logos/excel.png" /> 
 </p>
 <br />
 <br />
