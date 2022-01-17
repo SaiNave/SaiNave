@@ -35,7 +35,7 @@ Being an engineer, I am always interested in new emerging technologies. I try to
 <img align="left" alt= "postgresql_logo" width="40" src="logos/postgresql_logo.png" />
 <img align="left" alt= "Tableau_logo" width="45" src="logos/Tableau_logo.png" />
 <img align="left" alt= "git_logo" width="40" src="logos/git_logo.png" />
-<img align="left" alt= "Maltab_Logo" width="40" src="logos/Matlab_Logo.png"      />
+<img align="left" alt= "Maltab_Logo" width="40" src="logos/Matlab_Logo.png" />
 <img align="left" alt= "excel" width="40" src="logos/excel.png" /> 
 </p>
 <br />
