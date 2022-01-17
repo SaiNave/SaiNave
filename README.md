@@ -8,7 +8,7 @@ I earned Master's in Robotic Control System Engineering which equipped me with s
 Being an engineer, I am always interested in new emerging technologies. I try to keep up with the everyday changing businesses and technologies to stay at the top of the game.
 
 ✨ Fun fact: I am multilingual- fluent in English, Urdu, Korean (intermediate) and French (Beginner)
-</br>✨ Activities I do: badminton🏸, aerobics 🏃‍♀️, hiking 🥾, ice skating ⛸️ in winters and an avid traveller
+</br>✨ Activities I do: badminton🏸, aerobics 🏃‍♀️, hiking 🥾, ice skating ⛸️ and, an avid traveller
 
 ## My current Focus
 - Improving advance python programming and SQL skills
