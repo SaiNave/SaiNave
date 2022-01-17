@@ -41,7 +41,7 @@ Being an engineer, I am always interested in new emerging technologies. I try to
 <br />
 
 
-<img align="left" alt= "excel" width="40" src="logos/excel.png" /> 
+</a><img align="left" alt= "excel" width="40" src="logos/excel.png" /> 
 </p>
 <br />
 <br />
