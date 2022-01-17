@@ -7,13 +7,14 @@ Because of this, I had the opportunity to develop algorithms and deal with big d
 I earned Master's in Robotic Control System Engineering which equipped me with strong understanding of Statistical analysis, mathematical modelling, machine learning and strong attention to detail.<br/>
 Being an engineer, I am always interested in new emerging technologies. I try to keep up with the everyday changing businesses and technologies to stay at the top of the game.
 
+✨ Fun fact: I am multilingual- fluent in English, Urdu, Korean (intermediate) and French (Beginner)
+</br>✨ Activities I do: badminton🏸, aerobics 🏃‍♀️, hiking 🥾, ice skating ⛸️ in winters and an avid traveller
+
 ## My current Focus
 - Improving advance python programming and SQL skills
 - Working on personal projects based on python programming, database management, data analysis and visualization.
 - Open for new job opportunities
 
-✨ Fun fact: I am multilingual- fluent in English, Urdu, Korean (intermediate) and French (Beginner)
-</br>✨ Activities I do: badminton🏸, aerobics 🏃‍♀️, hiking 🥾, ice skating ⛸️ in winters and an avid traveller
 
 ## Reach me on
 [<img align ="left" alt="SaiNave's LinkedIN" height ="25" width="30" src="logos/linkedin_icon.png"/>](https://www.linkedin.com/in/sairah-naveed)
@@ -35,13 +36,13 @@ Being an engineer, I am always interested in new emerging technologies. I try to
 <img align="left" alt= "postgresql_logo" width="40" src="logos/postgresql_logo.png" />
 <img align="left" alt= "Tableau_logo" width="45" src="logos/Tableau_logo.png" />
 <img align="left" alt= "git_logo" width="40" src="logos/git_logo.png" />
-<img align="left" alt= "Maltab_Logo" width="40" src="logos/Matlab_Logo.png" />
+<img align="left" alt= "Maltab_Logo" width="40" src="logos/Matlab_Logo.png" /></a>
 
 <br />
 <br />
 
 
-</a><img align="left" alt= "excel" width="40" src="logos/excel.png" /> 
+</a><img align="left" alt= "excel" width="40" src="logos/excel.png" /></a> 
 </p>
 <br />
 <br />
