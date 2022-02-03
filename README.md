@@ -29,6 +29,7 @@ Being an engineer, I am always interested in new emerging technologies. I try to
 <img align="left" alt= "numpy_logo" Height = "40" width="35" src="logos/numpy.png"   />
 <img align="left" alt= "pandas_logo" width="40" src="logos/pandas.png"   />
 <img align="left" alt= "Csharp_Logo" width="55" src="logos/Csharp_Logo.png"  />
+<img align="left" alt= "r_logo" width="40" src="logos/r_logo.jpg"   />
 <img align="left" alt= "sql_logo" width="40" src="logos/sql_logo.png"   />
 <img align="left" alt= "Jupyter_logo" width="40" src="logos/Jupyter_logo.png"   />
 <img align="left" alt= "pycharm_logo" width="40" src="logos/pycharm_logo.png"   />
