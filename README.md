@@ -41,8 +41,9 @@ Being an engineer, I am always interested in new emerging technologies. I try to
 <br />
 
 <img align="left" alt= "Tableau_logo" height = "45" width="50" src="logos/Tableau_logo.png"   />
-<img align="left" alt= "Maltab_Logo" width="40" src="logos/Matlab_Logo.png"  /></a>
+<img align="left" alt= "Power BI" width="40" src="logos/P_BI.png"  /></a>
 <img align="left" alt= "excel" width="40" src="logos/excel.png" /></a> 
+<img align="left" alt= "Maltab_Logo" width="40" src="logos/Matlab_Logo.png"  /></a>
 </a><img align="left" alt= "git_logo" width="40" src="logos/git_logo.png"   />
 </p>
 <br />
