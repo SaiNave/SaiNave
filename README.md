@@ -11,8 +11,8 @@ Being an engineer, I am always interested in new emerging technologies. I try to
 </br>✨ Activities I do: badminton🏸, aerobics 🏃‍♀️, hiking 🥾, ice skating ⛸️ and, an avid traveller
 
 ## My current Focus
-- Working with Python libraries for data analysis and visualization, R programming and SQL
-- Understanding NoSQL
+- Working with Python libraries for data analysis and visualization, and SQL for data manipulation
+- Understanding cloud Databases
 - Working on personal projects based on python programming, database management, data analysis and visualization.
 - Open for new job opportunities
 
@@ -35,7 +35,8 @@ Being an engineer, I am always interested in new emerging technologies. I try to
 <img align="left" alt= "pycharm_logo" width="40" src="logos/pycharm_logo.png"   />
 <img align="left" alt= "vscode_logo" width="40" src="logos/vscode_logo.png"   />
 <img align="left" alt= "my_sql_logo" width="40" src="logos/my_sql_logo.png"   />
-<img align="left" alt= "postgresql_logo" width="40" src="logos/postgresql_logo.png"   />
+<img align="left" alt= "ibm_Db2" height = "40" width="60" src="logos/ibm_Db2.jfif"   />
+
 
 <br />
 <br />
@@ -44,7 +45,8 @@ Being an engineer, I am always interested in new emerging technologies. I try to
 <img align="left" alt= "Tableau_logo" height = "45" width="50" src="logos/Tableau_logo.png"   />
 <img align="left" alt= "IBM Cognos" height = "40" width="55" src="logos/ibm_cognos.jfif" />
 <img align="left" alt= "Power BI" height = "45" width="50" src="logos/P_BI.png"  /></a>
-<img align="left" alt= "excel" width="40" src="logos/excel.png" /></a> 
+<img align="left" alt= "excel" width="40" src="logos/excel.png" /></a>
+<img align="left" alt= "access" width="40" src="logos/access.png"   />
 <img align="left" alt= "Maltab_Logo" width="40" src="logos/Matlab_Logo.png"  /></a>
 </a><img align="left" alt= "git_logo" width="40" src="logos/git_logo.png"   />
 </p>
