@@ -32,6 +32,7 @@ Being an engineer, I am always interested in new emerging technologies. I try to
 <img align="left" alt= "r_logo" width="40" src="logos/r_logo.jpg"   />
 <img align="left" alt= "sql_logo" width="40" src="logos/sql_logo.png"   />
 <img align="left" alt= "Jupyter_logo" width="40" src="logos/Jupyter_logo.png"   />
+<img align="left" alt= "ibmWatson" height = "40" width="60" src="logos/ibmWatson.jfif"   />
 <img align="left" alt= "pycharm_logo" width="40" src="logos/pycharm_logo.png"   />
 <img align="left" alt= "vscode_logo" width="40" src="logos/vscode_logo.png"   />
 <img align="left" alt= "my_sql_logo" width="40" src="logos/my_sql_logo.png"   />
