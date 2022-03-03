@@ -12,7 +12,7 @@ Being an engineer, I am always interested in new emerging technologies. I try to
 
 ## My current Focus
 - Working with Python libraries for data analysis and visualization, and SQL for data manipulation
-- Understanding cloud Databases
+- Understanding Cloud Databases
 - Working on personal projects based on python programming, database management, data analysis and visualization.
 - Open for new job opportunities
 
