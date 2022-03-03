@@ -35,7 +35,7 @@ Being an engineer, I am always interested in new emerging technologies. I try to
 <img align="left" alt= "pycharm_logo" width="40" src="logos/pycharm_logo.png"   />
 <img align="left" alt= "vscode_logo" width="40" src="logos/vscode_logo.png"   />
 <img align="left" alt= "my_sql_logo" width="40" src="logos/my_sql_logo.png"   />
-<img align="left" alt= "postgresql_logo" width="40" src="logos/postgresql_logo.png"   />
+<img align="left" alt= "access" width="40" src="logos/postgresql_logo.png"   />
 
 <br />
 <br />
