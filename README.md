@@ -11,8 +11,8 @@ Being an engineer, I am always interested in new emerging technologies. I try to
 </br>✨ Activities I do: badminton🏸, aerobics 🏃‍♀️, hiking 🥾, ice skating ⛸️ and, an avid traveller
 
 ## My current Focus
-- Working with Python libraries for data analysis and visualization, R programming and SQL
-- Understanding NoSQL
+- Working with Python libraries for data analysis and visualization, and SQL for data manipulation
+- Understanding cloud Databases
 - Working on personal projects based on python programming, database management, data analysis and visualization.
 - Open for new job opportunities
 
