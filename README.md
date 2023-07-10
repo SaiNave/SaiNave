@@ -11,10 +11,10 @@ Being an engineer, I am always interested in new emerging technologies. I try to
 </br>✨ Activities I do: badminton🏸 aerobics 🏃‍♀️ hiking 🥾 ice skating ⛸️ and an avid traveller 
 
 ## My current Focus
-- Project Management
+- Health informatics and Project Management
 - Working with Python libraries for data analysis and visualization, and SQL for data manipulation
 - Working on personal projects involves database management, exploratory data analysis, dashboarding , and report development using BI tools .
-- Open for new job opportunities
+- Open to new job opportunities
 
 
 ## Reach me on
