@@ -1,13 +1,13 @@
 </a><img src="https://komarev.com/ghpvc/?username=SaiNave&style=flat&label=Profile visits" alt="SaiNave" /></a>
 <!--</a>[![Visits Badge](https://badges.pufler.dev/years/SaiNave)](https://badges.pufler.dev)</a>!-->
 # Hi I am Sairah Naveed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-I am a data enthusiast and system analyst experience in  data analytics, soft robotics, algorithm development, programming, and IT support. 
-My previous work experiences always gave me a chance to deal with the data  whether it is to generate, analyze or to visualize. 
-Because of this, I had the opportunity to  work on the projects involving developing algorithms, system management and deal with big data sets.<br/>
-I earned Master's in Robotic Control System Engineering which equipped me with strong understanding of statistical analysis, mathematical modelling, machine learning and strong attention to detail.<br/>
-Being an engineer, I am always interested in new emerging technologies. I try to keep up with the everyday changing businesses and technologies to stay at the top of the game.
+I am a data enthusiast and system analyst with experience in  data analytics, soft robotics, algorithm development, programming, and IT support. 
+My previous work experiences always gave me a chance to deal with data  whether it is to generate, analyze, or visualize. 
+Because of this, I had the opportunity to  work on projects involving developing algorithms, system management, and dealing with big data sets.<br/>
+I earned Masters in Robotic Control System Engineering which equipped me with a strong understanding of statistical analysis, mathematical modeling, and strong attention to detail.<br/>
+Being an engineer, I am always interested in new emerging technologies. I try to keep up with the every day changing businesses and technologies to stay at the top of the game.
 
-✨ Fun fact: I am multilingual- fluent in English, Urdu, Korean (intermediate) and French (Beginner)
+✨ Fun fact: I am multilingual- fluent in English, Urdu, Korean (intermediate), and French (Beginner)
 </br>✨ Activities I do: badminton🏸 aerobics 🏃‍♀️ hiking 🥾 ice skating ⛸️ and an avid traveller 
 
 ## My current Focus
