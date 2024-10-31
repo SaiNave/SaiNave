@@ -1,5 +1,4 @@
 </a><img src="https://komarev.com/ghpvc/?username=SaiNave&style=flat&label=Profile visits" alt="SaiNave" /></a>
-<!--</a>[![Visits Badge](https://badges.pufler.dev/years/SaiNave)](https://badges.pufler.dev)</a>!-->
 #  Hi I am Sairah Naveed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 I am a data-driven system analyst with a background in data analytics, soft robotics, algorithm development, programming, and IT support. Throughout my career, I’ve consistently worked with data—generating, analyzing, and visualizing it to uncover insights and drive decision-making. This experience has allowed me to take on diverse projects, from developing algorithms and managing systems to working with large datasets.
 
@@ -19,7 +18,7 @@ As an Electronics Engineer with a passion for emerging technologies, I stay curr
 
 ## Reach me on
 [<img align ="left" alt="SaiNave's LinkedIN" height ="25" width="30" src="logos/linkedin_icon.png"/>](https://www.linkedin.com/in/sairah-naveed)
-[<img align ="left" alt="SaiNave's Twitter" heightt ="25" width="30" src="logos/twitter_icon.png"/>](https://twitter.com/NaveedSairah)
+//[<img align ="left" alt="SaiNave's Twitter" heightt ="25" width="30" src="logos/twitter_icon.png"/>](https://twitter.com/NaveedSairah)
 [<img align ="left" alt="g_logo" width="30" src="logos/g_logo.png"/>](mailto:nave.sai25@gmail.com)
 <br/>
 
@@ -35,7 +34,6 @@ As an Electronics Engineer with a passion for emerging technologies, I stay curr
 <img align="left" alt= "numpy_logo" Height = "40" width="35" src="logos/numpy.png"   />
 <img align="left" alt= "matplot_logo" Height = "45" width="70" src="logos/matplot_logo.jpg"   />
 <img align="left" alt= "Jupyter_logo" width="40" src="logos/Jupyter_logo.png"   />
-<img align="left" alt= "ibmWatson" height = "40" width="60" src="logos/ibmWatson.jfif"   />
 <!--<img align="left" alt= "pycharm_logo" width="40" src="logos/pycharm_logo.png"   />--!>
 <img align="left" alt= "vscode_logo" width="40" src="logos/vscode_logo.png"   />
 <img align="left" alt= "my_sql_logo" width="40" src="logos/my_sql_logo.png"   />
