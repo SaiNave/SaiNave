@@ -17,7 +17,7 @@ As an Electronics Engineer with a passion for emerging technologies, I stay curr
 
 ## Reach me on
 [<img align ="left" alt="SaiNave's LinkedIN" height ="25" width="30" src="logos/linkedin_icon.png"/>](https://www.linkedin.com/in/sairah-naveed)
-//[<img align ="left" alt="SaiNave's Twitter" heightt ="25" width="30" src="logos/twitter_icon.png"/>](https://twitter.com/NaveedSairah)
+<!-- [<img align ="left" alt="SaiNave's Twitter" heightt ="25" width="30" src="logos/twitter_icon.png"/>](https://twitter.com/NaveedSairah)-->
 [<img align ="left" alt="g_logo" width="30" src="logos/g_logo.png"/>](mailto:nave.sai25@gmail.com)
 <br/>
 
