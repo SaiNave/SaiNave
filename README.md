@@ -1,11 +1,10 @@
 </a><img src="https://komarev.com/ghpvc/?username=SaiNave&style=flat&label=Profile visits" alt="SaiNave" /></a>
 <!--</a>[![Visits Badge](https://badges.pufler.dev/years/SaiNave)](https://badges.pufler.dev)</a>!-->
-# Hi I am Sairah Naveed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-I am a data enthusiast and system analyst with experience in  data analytics, soft robotics, algorithm development, programming, and IT support. 
-My previous work experiences always gave me a chance to deal with data  whether it is to generate, analyze, or visualize. 
-Because of this, I had the opportunity to  work on projects involving developing algorithms, system management, and dealing with big data sets.<br/>
-I earned Masters in Robotic Control System Engineering which equipped me with a strong understanding of statistical analysis, mathematical modeling, and strong attention to detail.<br/>
-Being an engineer, I am always interested in new emerging technologies. I try to keep up with the every day changing businesses and technologies to stay at the top of the game.
+# I am a data-driven system analyst with a background in data analytics, soft robotics, algorithm development, programming, and IT support. Throughout my career, I’ve consistently worked with data—generating, analyzing, and visualizing it—to uncover insights and drive decision-making. This experience has allowed me to take on diverse projects, from developing algorithms and managing systems to working with large datasets.
+
+I hold a Master’s degree in Robotic Control System Engineering, which has provided me with a solid foundation in statistical analysis, mathematical modeling, and an exceptional attention to detail.
+
+As an engineer with a passion for emerging technologies, I stay current with rapid advancements in tech and business, striving to keep at the forefront of the industry.
 
 ✨ Fun fact: I am multilingual- fluent in English, Urdu, Korean (intermediate), and French (Beginner)
 </br>✨ Activities I do: badminton🏸 aerobics 🏃‍♀️ hiking 🥾 ice skating ⛸️ and an avid traveller 
