@@ -1,6 +1,7 @@
 </a><img src="https://komarev.com/ghpvc/?username=SaiNave&style=flat&label=Profile visits" alt="SaiNave" /></a>
 <!--</a>[![Visits Badge](https://badges.pufler.dev/years/SaiNave)](https://badges.pufler.dev)</a>!-->
-# I am a data-driven system analyst with a background in data analytics, soft robotics, algorithm development, programming, and IT support. Throughout my career, I’ve consistently worked with data—generating, analyzing, and visualizing it—to uncover insights and drive decision-making. This experience has allowed me to take on diverse projects, from developing algorithms and managing systems to working with large datasets.
+# Hi I am Sairah Naveed 
+I am a data-driven system analyst with a background in data analytics, soft robotics, algorithm development, programming, and IT support. Throughout my career, I’ve consistently worked with data—generating, analyzing, and visualizing it to uncover insights and drive decision-making. This experience has allowed me to take on diverse projects, from developing algorithms and managing systems to working with large datasets.
 
 I hold a Master’s degree in Robotic Control System Engineering, which has provided me with a solid foundation in statistical analysis, mathematical modeling, and an exceptional attention to detail.
 
