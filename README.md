@@ -14,7 +14,7 @@ Being an engineer, I am always interested in new emerging technologies. I try to
 - Health informatics and Project Management
 - Working with Python libraries for data analysis and visualization, and SQL for data manipulation
 - Working on personal projects involves database management, exploratory data analysis, dashboarding , and report development using BI tools .
-- Open to new job opportunities
+
 
 
 ## Reach me on
