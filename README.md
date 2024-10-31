@@ -23,10 +23,10 @@ As an Electronics Engineer with a passion for emerging technologies, I stay curr
 [<img align ="left" alt="g_logo" width="30" src="logos/g_logo.png"/>](mailto:nave.sai25@gmail.com)
 <br/>
 
-## 💻Languages & Tools
+## 💻Tools
 </p> 
 
-<img align="left" alt= "MS365_logo" width="40" src="logos/MS365.png"   />
+<img align="left" alt= "MS365_logo" Height = "55" width="55" src="logos/MS365.png"   />
 <img align="left" alt= "python_logo" width="40" src="logos/python_logo.png"   />
 <img align="left" alt= "r_logo" width="40" src="logos/r_logo.jpg"   />
 <img align="left" alt= "sql_logo" width="40" src="logos/sql_logo.png"   />
