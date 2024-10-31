@@ -5,7 +5,7 @@ I am a data-driven system analyst with a background in data analytics, soft robo
 
 I hold a Master’s degree in Robotic Control System Engineering, which has provided me with a solid foundation in statistical analysis, mathematical modeling, and an exceptional attention to detail.
 
-As an engineer with a passion for emerging technologies, I stay current with rapid advancements in tech and business, striving to keep at the forefront of the industry.
+As an Electronics Engineer with a passion for emerging technologies, I stay current with rapid advancements in tech and business, striving to keep at the forefront of the industry.
 
 ✨ Fun fact: I am multilingual- fluent in English, Urdu, Korean (intermediate), and French (Beginner)
 </br>✨ Activities I do: badminton🏸 aerobics 🏃‍♀️ hiking 🥾 ice skating ⛸️ and an avid traveller 
