@@ -24,10 +24,25 @@ As an Electronics Engineer with a passion for emerging technologies, I stay curr
 ## 💻Tools
 </p> 
 
-<img align="left" alt= "MS365_logo" Height = "55" width="55" src="logos/MS365.png"   />
+<img align="left" alt= "MS365_logo" Height = "55" width="65" src="logos/MS365.png"   />
+<img align="left" alt= "git_logo" width="40" src="logos/git_logo.png"   />
+<img align="left" alt= "excel" width="40" src="logos/excel.png" /></a>
+<img align="left" alt= "access" width="40" src="logos/access.png"   /></a>
+<img align="left" alt= "sql_logo" width="40" src="logos/sql_logo.png"   />
+<img align="left" alt= "my_sql_logo" width="40" src="logos/my_sql_logo.png"   />
+<img align="left" alt= "ibm_Db2" height = "40" width="60" src="logos/ibm_Db2.jfif"   />
+<img align="left" alt= "Power BI" height = "45" width="50" src="logos/P_BI.png"  /></a>
+<img align="left" alt= "IBM Cognos" height = "35" width="55" src="logos/ibm_cognos.jfif" />
+
+
+<br />
+<br />
+<br />
+
+<!--<img align="left" alt= "Tableau_logo" height = "40" width="50" src="logos/Tableau_logo.png"   />--!>
+</a>
 <img align="left" alt= "python_logo" width="40" src="logos/python_logo.png"   />
 <img align="left" alt= "r_logo" width="40" src="logos/r_logo.jpg"   />
-<img align="left" alt= "sql_logo" width="40" src="logos/sql_logo.png"   />
 <img align="left" alt= "Csharp_Logo" Height = "55" width="55" src="logos/Csharp_Logo.png"  />
 <img align="left" alt= "pandas_logo" width="40" src="logos/pandas.png"   />
 <img align="left" alt= "numpy_logo" Height = "40" width="35" src="logos/numpy.png"   />
@@ -35,23 +50,6 @@ As an Electronics Engineer with a passion for emerging technologies, I stay curr
 <img align="left" alt= "Jupyter_logo" width="40" src="logos/Jupyter_logo.png"   />
 <!--<img align="left" alt= "pycharm_logo" width="40" src="logos/pycharm_logo.png"   />--!>
 <img align="left" alt= "vscode_logo" width="40" src="logos/vscode_logo.png"   />
-<img align="left" alt= "my_sql_logo" width="40" src="logos/my_sql_logo.png"   />
-<img align="left" alt= "ibm_Db2" height = "40" width="60" src="logos/ibm_Db2.jfif"   />
-
-
-
-<br />
-<br />
-<br />
-
-
-<!--<img align="left" alt= "Tableau_logo" height = "40" width="50" src="logos/Tableau_logo.png"   />--!>
-</a>
-<img align="left" alt= "Power BI" height = "45" width="50" src="logos/P_BI.png"  /></a>
-<img align="left" alt= "IBM Cognos" height = "35" width="55" src="logos/ibm_cognos.jfif" />
-<img align="left" alt= "git_logo" width="40" src="logos/git_logo.png"   />
-<img align="left" alt= "excel" width="40" src="logos/excel.png" /></a>
-<img align="left" alt= "access" width="40" src="logos/access.png"   /></a>
 <!--<img align="left" alt= "Maltab_Logo" width="40" src="logos/Matlab_Logo.png"  />--!>
 
 </p>
