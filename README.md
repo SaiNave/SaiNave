@@ -25,6 +25,8 @@ As an Electronics Engineer with a passion for emerging technologies, I stay curr
 
 ## 💻Languages & Tools
 </p> 
+
+<img align="left" alt= "MS365_logo" width="40" src="logos/MS365.png"   />
 <img align="left" alt= "python_logo" width="40" src="logos/python_logo.png"   />
 <img align="left" alt= "r_logo" width="40" src="logos/r_logo.jpg"   />
 <img align="left" alt= "sql_logo" width="40" src="logos/sql_logo.png"   />
